@@ -1,1 +1,2 @@
-# PRO-C83-SPECTAGRAM-STAGE-3
+# spectagram-stage-3
+project solution for c83
